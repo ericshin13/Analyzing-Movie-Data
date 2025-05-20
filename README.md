@@ -5,4 +5,4 @@ This project analyzed the budget and box office revenue of American movies by ma
 
 Google Sheets File: https://docs.google.com/spreadsheets/d/1H8zdk_AFNfW4bowRueBZqZxbuYC9saE_/edit?usp=sharing&ouid=105203546818104240886&rtpof=true&sd=true
 ## Technology Used: Google Sheets
-## Project data, graphs, and tables are located in the Google Sheets file
+## Project Data, Graphs, and Tables are located in the Google Sheets file

@@ -1,4 +1,4 @@
-# Analyzing Movie Data
+# Analyzing American Movie Budgets and Revenue by Genre
 This project analyzed the average budget and box office revenue of American movies by main genre. Using pivot tables created from Wikipedia movie data and bar graph visualizations, the analysis identified trends and differences in average budgets and box office revenues across movie genres.
 ![Movie Data Graph 1](https://github.com/user-attachments/assets/11d0f748-8bd2-442a-8231-54cfabba4e56)
 ![Movie Data Graph 2](https://github.com/user-attachments/assets/09ae7375-64e3-4e2c-aa1a-b6ff14f970f8)
